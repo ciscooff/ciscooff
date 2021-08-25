@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm CISCO <img height="40" src="https://emoji.gg/assets/emoji/7089-xmas-hacker.gif"></h1>
 <h3 align="center">A passionate Cybersec researcher and Big Data student from Tunisia 🇹🇳 </h3>
 
-- 🌱 I’m currently learning **Dart, ML and AI**
+- 🌱 I’m currently learning **Dart, ML ,Cloud Computing and AI**
 
-- 👯 I’m looking to collaborate on **Big Data or AI projects**
+- 👯 I’m looking to collaborate on **AI projects**
 
 - 📫 How to reach me: **xtnhoussem@gmail.com**
 
@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
